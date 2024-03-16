@@ -1,0 +1,17 @@
+* how can publish Nuget to dotNet
+[ https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli ]
+
+* angular JS and DotNet app 
+[ https://downloadly.ir/elearning/video-tutorials/udemy-angular-core-deep-dive-beginner-to-advanced-angular-14/ ]
+[ https://downloadly.ir/elearning/video-tutorials/angular-and-asp-net-core-rest-api-real-world-application/ ]
+[ https://downloadly.ir/elearning/video-tutorials/json-web-token-jwt-with-spring-security-and-angular/ ]
+* WF app master 
+[ https://downloadly.ir/elearning/video-tutorials/easy-c-with-windows-forms-70-projects-for-beginners-to-pro/ ]
+
+* unit test
+[ https://downloadly.ir/elearning/video-tutorials/from-zero-to-hero-unit-testing-in-c/ ]
+
+
+
+
+
